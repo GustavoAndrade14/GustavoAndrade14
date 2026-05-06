@@ -1,6 +1,6 @@
-# Olá, eu sou [Gustavo Andrade] 👋
+# Olá, eu sou Gustavo Andrade 👋
 
-## Estudante e criador(a) de conteúdo de programação
+## Estudante e futuro programador full stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Student-🌐 Web and mobile developer-blue" alt="Student" />
