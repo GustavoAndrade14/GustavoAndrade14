@@ -15,9 +15,8 @@
 
 ### 🤝 Conecte-se comigo:
 <p align="center">
-  <a href="[https://www.instagram.com/gustavin69__](https://www.instagram.com/gustavin69__/)"><img src="https://img.shields.io/badge/INSTAGRAM-pink?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="[https://www.instagram.com/gustavin69__/"><img src="https://img.shields.io/badge/INSTAGRAM-pink?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:gusta08567@gmail.com"><img src="https://img.shields.io/badge/GMAIL-gray?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LATTES-blueviolet?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAQAAACNI..."/></a>
   <a href="https://wa.me/85989628596"><img src="https://img.shields.io/badge/WHATSAPP-green?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
@@ -41,10 +40,3 @@
 </p>
 
 ---
-
-### 🗄️ Bancos de dados
-<p align="center">
-  <!-- Adicione os bancos que você usa -->
-  <img src="https://img.shields.io/badge/MYSQL-blue?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/POSTGRESQL-blue?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
