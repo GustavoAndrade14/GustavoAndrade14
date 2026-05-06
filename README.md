@@ -13,17 +13,9 @@
 
 ---
 
-### 📊 Minhas Estatísticas do GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GustavoAndrade14&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAndrade14&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ### 🤝 Conecte-se comigo:
 <p align="center">
-  <a href="https://www.instagram.com/gustavin69__"><img src="https://img.shields.io/badge/INSTAGRAM-pink?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="[https://www.instagram.com/gustavin69__](https://www.instagram.com/gustavin69__/)"><img src="https://img.shields.io/badge/INSTAGRAM-pink?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:gusta08567@gmail.com"><img src="https://img.shields.io/badge/GMAIL-gray?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/LATTES-blueviolet?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAQAAACNI..."/></a>
   <a href="https://wa.me/85989628596"><img src="https://img.shields.io/badge/WHATSAPP-green?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
